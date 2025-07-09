@@ -16,7 +16,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKYpfs-1Dx8ZUFLU5EvHtdUwE4bbb8S1cGg&s" alt="Dribbble Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a>
 
 <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.upwork.com/&ved=2ahUKEwiri_jDyryNAxU9RmwGHW3mLToQFnoECAkQAQ&usg=AOvVaw3j8KT1BYya4yXbNUwtswU5" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7nsTTNlxq0VoEFFl9kGwms4omdpEOt-tlQ&s" alt="Dribbble Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a>
+  <img src="https://github.com/JoshuaThadi/Digital-Products/blob/main/assets/upwork-icon(1).png" alt="Dribbble Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a>
 
 <!--  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="Dribbble Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a>-->
