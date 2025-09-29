@@ -1903,12 +1903,12 @@ Wallpaper designing is a creative process involving the use of graphic, vector, 
 
 
 
----
+
 
 
 <div align="left">
 
-## 📦 Coming Soon
+<!--## 📦 Coming Soon
 
 Free logo asset packs<br>
 Notion & Canva marketplace templates<br>
@@ -1927,7 +1927,7 @@ Case studies and design breakdowns<br>
   <p>
     
   </p>
-</div>
+</div>-->
 
 ---
 
