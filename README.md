@@ -1282,8 +1282,8 @@ Graphics and animations are powerful visual tools that bring ideas to life, enha
 
 <div><p><h1></h1></p></div>
 
-<img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/091089194042773.661d38a331980.gif">
-<img width="100%" src="https://www.2008php.com//2019_Website_appreciate/2019-04-10/201904101302050j2Si.gif">
+<img width="100%" src="https://github.com/JoshuaThadi/Digital-Products/blob/main/assets/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f736f757263652f3039313038393139343034323737332e363631643338613333313938302e676966.gif?raw=true">
+<img width="100%" src="https://github.com/JoshuaThadi/Digital-Products/blob/main/assets/68747470733a2f2f7777772e323030387068702e636f6d2f2f323031395f576562736974655f617070726563696174652f323031392d30342d31302f3230313930343130313330323035306a3253692e676966.gif?raw=true">
 
 ---
 
