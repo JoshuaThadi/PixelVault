@@ -25,7 +25,7 @@
   <img src="https://static.vecteezy.com/system/resources/previews/025/732/716/non_2x/fiverr-logo-icon-online-platform-for-freelancers-free-vector.jpg" alt="Fiverr Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a><br>
 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" alt="Behance Icon" width="100" style="vertical-align: middle; margin: 0 5px;"></a>
+  <img src="https://cdn-icons-png.flaticon.com/512/5210/5210500.png" alt="" width="100" style="vertical-align: middle; margin: 0 5px;"></a>
 
 <a href="https://www.canva.com/features/free-icons/" target="_blank">
   <img src="https://play-lh.googleusercontent.com/JC3HW-ps59VAEU3vuJoi3I5XB_IQ9ISuILLudUY9uLSW7eKfqtXitrB-fF865rV4TQ=s188" alt="Notion" width="100"></a>
