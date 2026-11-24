@@ -615,6 +615,7 @@ Tutorials and courses are essential tools for structured learning, skill develop
 <b>Camtasia</b> – All-in-one screen recorder and video editor.<br>
 <b>OBS Studio</b> – Free and open-source screen recording and live streaming.<br>
 <b>Loom</b> – Fast screen and webcam recording, ideal for tutorials.<br>
+<b>Vertov</b> – Browser screen recording for tutorials, with transcript editing and share links.<br>
 <b>Screencast-O-Matic</b> – Lightweight tool for screen capture tutorials.<br>
 <b>Descript</b> – Video editing with AI features like transcription and overdubbing.<br>
 <b>Final Cut Pro / Adobe Premiere Pro</b> – Advanced video editing for polished courses.<br>
@@ -629,6 +630,8 @@ Tutorials and courses are essential tools for structured learning, skill develop
   <img src="https://img.shields.io/badge/OBS_Studio-grey?style=for-the-badge&logo=obsproject&logoColor=white" alt="OBS Studio Badge" /></a>
 <a href="https://www.loom.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Loom-grey?style=for-the-badge&logo=loom&logoColor=white" alt="Loom Badge" /></a>
+<a href="https://vertov.app/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Vertov-grey?style=for-the-badge" alt="Vertov Badge" /></a>
 <a href="https://screencast-o-matic.com" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Screencast--O--Matic-grey?style=for-the-badge&logo=screencast-o-matic&logoColor=white" alt="Screencast-O-Matic Badge" /></a>
 <a href="https://www.descript.com" target="_blank" style="text-decoration: none;">
